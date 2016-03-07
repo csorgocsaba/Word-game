@@ -1,0 +1,7 @@
+﻿Szabalyok:
+A játék célja, hogy kitalálj egy szót. A játék kezdetén megkapod a kitatlálandó szó hosszát. Tippelés után az összes játékos megtudja, hogy hány karakter azonos a kitalálandó szóban és a tippben. Sorban egymás uztán tippelhetnek ajátékosok. Az a játékos nyer, aki eltalaálja a szót. 
+Most szavakat küldhetsz a szótárba, melyből kisorsolásra kerül a feladvány. Az INDUL paranccsal csatlakozhatsz a játékhoz. A játék megkezdésétől csak akkor küldhetsz szót(mostantól ezek a tippjeid), ha te következel. 
+Szavakat továbbra is adhatsz a szótárhoz, ehez a SZOTAR szó parancs használható, ahol a szó az, amit a szótárba akarsz küldeni.
+ A játékból bármikor kiléphetsz a KILEP paranccsal.
+A ; parancsal lekérdezheted a sorsolt szó hosszát, és az eddigi tippeket. 
+Sok szerencsét és jó szórakozást a játékhoz!
